@@ -1,0 +1,3 @@
+Ejemplo de archivo
+de entrada que ser� le�do
+caracter a caracter

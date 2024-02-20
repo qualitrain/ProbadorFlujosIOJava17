@@ -1,0 +1,9 @@
+000001 - Federico Garcia Lorca          -            Av. Insurgentes Sur 1580, col. Guadalupe Inn -    3.14 - 3.141593     -      123456789
+000002 - Federico Garcia Lorca          -            Av. Insurgentes Sur 1580, col. Guadalupe Inn -    6.28 - 6.283185     -      246913578
+000003 - Federico Garcia Lorca          -            Av. Insurgentes Sur 1580, col. Guadalupe Inn -    9.42 - 9.424778     -      370370367
+000004 - Federico Garcia Lorca          -            Av. Insurgentes Sur 1580, col. Guadalupe Inn -   12.57 - 12.566371    -      493827156
+000005 - Federico Garcia Lorca          -            Av. Insurgentes Sur 1580, col. Guadalupe Inn -   15.71 - 15.707963    -      617283945
+000006 - Federico Garcia Lorca          -            Av. Insurgentes Sur 1580, col. Guadalupe Inn -   18.85 - 18.849556    -      740740734
+000007 - Federico Garcia Lorca          -            Av. Insurgentes Sur 1580, col. Guadalupe Inn -   21.99 - 21.991149    -      864197523
+000008 - Federico Garcia Lorca          -            Av. Insurgentes Sur 1580, col. Guadalupe Inn -   25.13 - 25.132741    -      987654312
+000009 - Federico Garcia Lorca          -            Av. Insurgentes Sur 1580, col. Guadalupe Inn -   28.27 - 28.274334    -     1111111101
